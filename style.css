@@ -1,0 +1,203 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    text-align: center;
+}
+
+marquee {
+    font-size: 20px;
+    color: black;
+
+}
+
+.container {
+    background-color: gray;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.travel_maindiv h5,
+.travel_maindiv p {
+    margin-left: 20px;
+    margin-left: 20px;
+    color: black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: Bookman Old Style;
+    font-size: 20px;
+}
+
+.travel_maindiv {
+    border: 1px solid black;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+    padding: 20px 20px 20px 20px;
+}
+
+.travel_maindiv iframe {
+    width: 100%;
+    height: 100%;
+}
+
+#onetwo {
+    font-size: 20px;
+    font-family: monospace;
+}
+
+.hello {
+    font-family: monospace;
+    font-size: 20px;
+    color: black;
+    margin-top: 15px;
+}
+
+.navbar-nav {
+    position: sticky;
+}
+
+#contact iframe {
+    width: 100%;
+    padding-top: 5px;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey
+}
+
+#contact img {
+    width: 200px;
+    margin-left: 10px;
+}
+
+#contact i {
+    color: white;
+    width: 20%
+}
+
+#contact h4 {
+    font-family: monospace;
+    font-size: 20px;
+    color: black;
+    margin-top: 20px;
+}
+
+#contact #yt {
+    color: lightcoral;
+}
+
+#contact #fb {
+    color: lightblue;
+}
+
+#contact #gm {
+    color: burlywood;
+}
+
+.sucess {
+    color: greenyellow;
+    margin-top: 10px;
+    font-size: 30px;
+}
+
+.primary {
+    color: lightblue;
+    font-size: 20px;
+}
+
+.ox {
+    width: 300px;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: gold;
+    margin-left: 10px;
+}
+
+#chgf {
+    font-size: 20px;
+    color: dodgerblue;
+    font-family: 'Syne Mono', monospace;
+}
+
+#trout {
+    border-color: chartreuse;
+}
+
+.video_maindiv {
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+
+.environment_li {
+    margin-top: 13px;
+}
+
+.environment_li h4 {
+    border-bottom: 1px solid black;
+    padding: 8px;
+    font-family: Comic Sans MS;
+    font-size: 22px;
+}
+
+.environment_li img {
+    border-radius: 25px;
+}
+
+.environment_li p {
+    margin-top: 10px;
+}
+
+.asap {
+    line-height: 2;
+}
+
+.book {
+    cursor: pointer;
+}
+
+.book hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center;
+}
